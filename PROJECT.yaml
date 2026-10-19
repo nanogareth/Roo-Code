@@ -1,0 +1,10 @@
+schema: portfolio/project@1
+id: roo-code
+name: "Roo-Code"
+aliases: ["Roo-Code","nanogareth/Roo-Code"]
+partition: personal
+kinds: [code]
+status: retired
+summary: "Personal fork of the Roo Code VS Code AI agent; own work is only two code-analyzer dumps"
+bets: []
+# NOTE: fork of RooCodeInc/Roo-Code; only own commit is 0138dbf (2025-10-10) adding two aisha-*.md analyzer dumps — candidate retired
